@@ -1,0 +1,17 @@
+h1{
+    font-size: 3rem;
+    line-height: 2rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans', sans-serif;
+    color: #2c3e50;
+    position: relative;
+    top: 15px;
+}
+.fa-star{
+    display: flex;
+    justify-content: center;
+    color: #2c3e50;
+    position: relative;
+    top: 20px;
+}
