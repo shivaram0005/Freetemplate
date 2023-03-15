@@ -1,0 +1,13 @@
+.copy h3{
+    margin: 0 auto;
+    color: #ffffff;
+
+}
+.copy{
+    background-color: #1a252f;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Noto Sans', sans-serif;
+}

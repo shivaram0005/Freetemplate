@@ -10,6 +10,8 @@ import game from './assets/game.png'
 import safe from './assets/safe.png'
 import submarine from './assets/submarine.png'
 import About from './About'
+import Footer from './Footer'
+import Copyright from './Copyright'
 
 
 
@@ -22,6 +24,8 @@ const App = () => {
        <Photos src={cabin} srcc={cake} srccc={circus}/>
        <Photos src={game} srcc={safe} srccc={submarine}/>
        <About />
+       <Footer/>
+       <Copyright/>
        
        
       

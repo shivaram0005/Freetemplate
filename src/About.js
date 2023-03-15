@@ -19,7 +19,9 @@ const About = () => {
                 </div>
             </div>
             <div className='button'>
-                <button>Free Download!</button>
+                <button>
+                     Free Download
+                </button>
             </div>
         </div>
     </>
